@@ -35,4 +35,4 @@ Deep Learning: CNN Model
 6. Submission
     1. Loading the predicted values to CSV file
     
-My [Notebook] has yielded Mean FScore Beta: 0.90592
+My [Notebook](https://github.com/rahultg08/amazon-from-space/blob/master/amazon_from_space.ipynb) has yielded Mean FScore Beta: 0.90592
